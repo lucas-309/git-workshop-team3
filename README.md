@@ -15,14 +15,18 @@ Run 'python -m unittest test_dataset.py' in the main folder. You should see the 
 Ran 2 tests in 0.000s
 
 OK
+
 ----------------------------------------------------------------------
 
 This ensures you have correctly downloaded the dataset.
 
-## Project Description: 
+### Project Description: 
 
 We wish to find patterns in Crime Data from Los Angeles to aid with law enforcement agencies and facilitate police dispatch
 
+### Using the Repository
+
+You can use download this repository to visualize the data and implement machine learning algorithms
 
 
 
