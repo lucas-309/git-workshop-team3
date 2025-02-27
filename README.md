@@ -1,2 +1,2 @@
-# git-workshop
-To get started, run `make setup`.
+Group Members: 
+Rohit Vakkalagadda (rv324@cornell.edu)
